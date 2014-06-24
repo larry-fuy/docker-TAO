@@ -19,5 +19,5 @@ ACE should be built first. See following installation instructions.
 [Installation instructions] (http://www.dre.vanderbilt.edu/~schmidt/DOC_ROOT/TAO/TAO-INSTALL.html)
 --------------------------------
 
-Compiling TAO+ACE is a very time-consuming process. So it is strong suggested to pull the image from Docker's public repository directly
+Compiling TAO+ACE is a very time-consuming process. So it is strongly suggested to pull the image from Docker's public repository directly
 ```docker pull oci/TAO```
