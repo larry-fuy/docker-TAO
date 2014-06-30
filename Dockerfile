@@ -24,3 +24,4 @@ RUN cd $ACE_ROOT/ace;make
 #build gperf
 RUN cd $ACE_ROOT/apps/gperf/src;make
 RUN cd $TAO_ROOT;make
+RUN rm -f ACE+TAO-6.2.0.tar.gz
