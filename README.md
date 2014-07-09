@@ -19,6 +19,7 @@ Installation
 --------------------------------
 
 * Run ```build.sh```. The image name is yongfu/tao_ace. Replacing the name in ```build.sh``` if you like.
+* Run ```docker -i -t yongfu/tao_ace``` to explore.
 
 *  [Install TAO+ACE on Linux] (http://www.dre.vanderbilt.edu/~schmidt/DOC_ROOT/TAO/TAO-INSTALL.html)
 
